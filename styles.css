@@ -1,0 +1,15 @@
+h1 {
+color: red;
+font-style: italic;
+
+}
+p{
+    color:blue;
+    font-style: bold;
+}
+.favorites {
+color:green;
+}
+#language {
+    color:magenta;
+}
